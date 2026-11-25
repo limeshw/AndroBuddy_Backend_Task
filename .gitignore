@@ -1,0 +1,47 @@
+# --- Secrets & Environment Variables ---
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# --- Virtual Environments ---
+.venv/
+venv/
+env/
+.python-version
+
+# --- Python Bytecode & Caches ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Packaging & Build Artifacts ---
+build/
+dist/
+*.egg-info/
+
+# --- Testing, Coverage & Type Checking ---
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# --- Databases & Local Storage ---
+*.sqlite3
+*.db
+dump.rdb
+
+# --- Framework & Logs ---
+*.log
+local_settings.py
+media/
+staticfiles/
+instance/
+
+# --- IDEs & OS Files ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
