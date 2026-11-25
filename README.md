@@ -112,8 +112,8 @@ This creates:
 
 | Role | Email | Password |
 | :--- | :--- | :--- |
-| **Admin** | `admin@shopsphere.com` | `AdminPassword123!` |
-| **Customer** | `customer@shopsphere.com` | `Customer123!` |
+| **Admin** | `admin@shopsphere.com` | `` |
+| **Customer** | `customer@shopsphere.com` | `` |
 
 ---
 
